@@ -1,0 +1,16 @@
+mean_user
+jACpeRNxeJePvL6k
+
+Orden de creacion proyecto en  Node js
+
+npm init -y  //para crear archivo package.json con indicacion de dependencias
+
+npm install express --save // Instalacion de Framework express
+Crear index.js 
+npm install -g nodemon // para realizar refresh del backend automaticamente
+
+npm i mongoose  // para conexion a base de datos
+
+npm i dotenv  //Configuracion variables de entorno
+
+npm i cors // Configuracion autorizacion consumo de apis
