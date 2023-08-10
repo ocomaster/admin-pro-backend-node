@@ -14,3 +14,11 @@ npm i mongoose  // para conexion a base de datos
 npm i dotenv  //Configuracion variables de entorno
 
 npm i cors // Configuracion autorizacion consumo de apis
+
+Crear modelo
+
+npm i express-validator
+
+npm i bcryptjs // Libreria encriptacion de contraseña
+
+npm i jsonwebtoken
